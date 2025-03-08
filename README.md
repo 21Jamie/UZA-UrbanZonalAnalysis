@@ -1,2 +1,2 @@
 # UZA-UrbanZonalAnalysis
-Urban zonal analysis dissects cities into functional, environmental, or socio-economic units to reveal hidden spatial patterns. This repository provides open-source tools, datasets, and methodologies to facilitate zonal analysis.
+Urban zonal analysis dissects cities into functional, environmental, or socio-economic units to reveal hidden spatial patterns. This repository provides open-source tools, datasets, and methodologies to analyze zones like Local Climate Zones (LCZ), Urban Functional Zones (UFZ), and Morphological Clusters, empowering researchers and planners to tackle challenges such as heat island mitigation, mixed-use development, and social equity audits etc.
